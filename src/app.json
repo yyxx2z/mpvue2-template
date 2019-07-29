@@ -1,0 +1,9 @@
+{
+  "pages": ["pages/index/main", "pages/temp/main"],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "首页",
+    "navigationBarTextStyle": "black"
+  }
+}
